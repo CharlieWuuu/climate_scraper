@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual Environment
+venv/
+env/
+.idea/
+.vscode/
+*.log
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MacOS 系統檔案
+.DS_Store
+
+# 爬蟲輸出檔案
+*.csv
+*.json
+*.xlsx
