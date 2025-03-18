@@ -21,8 +21,3 @@ env/
 
 # MacOS 系統檔案
 .DS_Store
-
-# 爬蟲輸出檔案
-*.csv
-*.json
-*.xlsx
